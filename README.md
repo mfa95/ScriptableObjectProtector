@@ -1,6 +1,7 @@
 # ScriptableObjectProtector
 ScriptableObjectler için play modunda yapılan değişikliklerin, editor moduna geçerken tekrar eski haline gelemesi için basit bir yardımcı araç sunar.
-** ScriptableObject = "SO" kısaltmadır.
+(ScriptableObject = "SO" kısaltmadır.)
+
 ## KULLANIM:
 Sadece "ScriptableObject" yerine "ScriptableObjectBase" sınıfından miras alın.
 ```
